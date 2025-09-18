@@ -1,0 +1,17 @@
+# Ignore video and audio files
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+# Ignore unnecessary server-side files
+*.php
+*.asp
+*.htaccess
+# Ignore other media and archives
+*.zip
+*.rar
+*.pdf
+# Ignore specific directories
+/videos/
+/media/
